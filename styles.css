@@ -1,0 +1,14 @@
+header img{
+    width:5rem;
+}
+main img{
+    width:30rem;
+}
+nav>a{
+    color:#e6e8e6;
+}
+header{
+    display:flex;
+    justify-content:space-between;
+    align-items:flex-end;
+}
